@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Nisha Tamta
-- 👀 I’m interested in dominating the world.
-- 🌱 I’m currently learning and advancing further in Java Programming language.
-- 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me .. email me at nisha.tamta199@gmail.com
+# Hi, I’m Nisha Tamta
 
-<!---
-nisha-tamta/nisha-tamta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Software Engineer with 6+ years of experience in Java, Spring Boot, REST APIs, SQL, and AWS.
+
+Certified in AWS, MuleSoft, and Salesforce, with a focus on backend systems, API integration, and enterprise application development.
+
+## Skills
+Java • Spring Boot • REST APIs • SQL • AWS • MuleSoft • DataWeave • Salesforce
+
+## Links
+- LinkedIn: [linkedin.com/in/javadevelopernisha](https://www.linkedin.com/in/javadevelopernisha)
+- Portfolio: [nisha-portfolio-iota.vercel.app](https://nisha-portfolio-iota.vercel.app/)
+- Email: nisha.tamta199@gmail.com
