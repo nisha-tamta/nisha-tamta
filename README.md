@@ -6,6 +6,7 @@ Java Backend Developer with 6+ years building scalable backend systems, REST API
 🏅 Salesforce Certified MuleSoft Developer
 🏅 Salesforce Certified Platform Administrator
 
+
 📍 Orlando, FL · Open to US roles
 
 ---
