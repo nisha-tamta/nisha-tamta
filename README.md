@@ -24,11 +24,11 @@ Java Backend Developer with 6+ years building scalable backend systems, REST API
 
 ### 🚀 Featured Projects
 
-🔹 **CashFlow Manager** — Full stack expense management app (Java · Spring Boot · React · PostgreSQL)
-
 🔹 **Salesforce to ERP Customer Sync** — MuleSoft integration with DataWeave + External ID upsert
 
 🔹 **Salesforce to MuleSoft ERP Account Sync** — End-to-end SOAP/REST integration flow
+
+🔹 **CashFlow Manager** — Full stack expense management app (Java · Spring Boot · React · PostgreSQL)
 
 ---
 
