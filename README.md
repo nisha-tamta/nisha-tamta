@@ -2,9 +2,9 @@
 
 Java Backend Developer with 6+ years building scalable backend systems, REST APIs, and event-driven cloud workflows using Java, Spring Boot, and AWS.
 
-🏅 AWS Certified Developer – Associate
-🏅 Salesforce Certified MuleSoft Developer
-🏅 Salesforce Certified Platform Administrator
+🏅 AWS Certified Developer – Associate<br>
+🏅 Salesforce Certified MuleSoft Developer<br>
+🏅 Salesforce Certified Platform Administrator<br>
 
 
 📍 Orlando, FL · Open to US roles
@@ -19,6 +19,12 @@ Java Backend Developer with 6+ years building scalable backend systems, REST API
 - **Databases:** PostgreSQL · MySQL · Oracle · SQL Server · MongoDB · Snowflake
 - **Frontend:** React · JavaScript · HTML · CSS
 - **Tools:** Git · Maven · Jenkins · Postman · JUnit
+
+---
+
+### 🎨 Side Projects
+
+- **[The Museum of Lives You Didn't Live](https://museum-of-unlived-lives.netlify.app)** — An interactive museum for the lives that almost happened. Three choices deterministically assemble one of 216 exhibits, each with a shareable URL and downloadable souvenir card.
 
 ---
 
